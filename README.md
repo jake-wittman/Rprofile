@@ -1,2 +1,2 @@
 # Rprofile
-My Rprofile file.
+My Rprofile file for installing some stuff on new computers.
