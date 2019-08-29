@@ -5,3 +5,5 @@ devtools::install_github("dracodoc/mischelper", type = "source")
 devtools::install_github("benmarwick/wordcountaddin", type = "source", dependencies = TRUE)
 # Grammar checker in R markdown
 devtools::install_github("ropenscilabs/gramr")
+# Data pasta
+install.packages("data.pasta")
